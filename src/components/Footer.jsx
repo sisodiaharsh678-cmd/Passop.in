@@ -12,7 +12,7 @@ function Footer() {
           
             </div>
         </div>
-     <div className='flex'> created with <img className=' flex  w-5 bg-slate-800' src="https://clipground.com/images/red-heart-png-7.png" alt="" /> by Harsh Prajapati
+     <div className='flex'> created with <img className=' flex  w-5 bg-slate-800' src="https://clipground.com/images/red-heart-png-7.png" alt="" /> by Ravi Patel
     </div>
     </div>
   )
